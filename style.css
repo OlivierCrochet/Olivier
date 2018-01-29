@@ -7,7 +7,7 @@ p {
 }b { color: green}
 c { color: green}
 
-li{
+.nom{
   color: purple;
   font-family: Arial;
 }
